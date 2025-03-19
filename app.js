@@ -67,3 +67,13 @@ console.log(result2)
 
 
 
+let name ;
+
+if (name){
+    console.log("bat sach hai");
+    
+  }else{
+      console.log("wrong");
+      
+  
+  }
